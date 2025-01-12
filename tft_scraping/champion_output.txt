@@ -1,0 +1,60 @@
+Akali	2	Rebel, Quickstriker	Hand of Justice, Ionic Spark, Jeweled Gauntlet
+Ambessa	4	Conqueror, Emissary, Quickstriker	Bloodthirster, Sterak's Gage, Titan's Resolve
+Amumu	1	Automata, Watcher	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Blitzcrank	3	Automata, Dominator	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Caitlyn	5	Enforcer, Sniper	Infinity Edge, Last Whisper, Spear of Shojin
+Camille	2	Enforcer, Ambusher	Bloodthirster, Hand of Justice, Titan's Resolve
+Cassiopeia	3	Black Rose, Dominator	Blue Buff, Jeweled Gauntlet, Nashor's Tooth
+Corki	4	Scrap, Artillerist	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Darius	1	Conqueror, Watcher	Bloodthirster, Sterak's Gage, Titan's Resolve
+Dr Mundo	4	Experiment, Dominator	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Draven	1	Conqueror, Pit Fighter	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Ekko	4	Firelight, Scrap, Ambusher	Hand of Justice, Ionic Spark, Jeweled Gauntlet
+Elise	4	Black Rose, Bruiser, Form Swapper	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Ezreal	3	Academy, Rebel, Artillerist	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Gangplank	3	Scrap, Form Swapper, Pit Fighter	Infinity Edge, Last Whisper, Spear of Shojin
+Garen	4	Emissary, Watcher	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Heimerdinger	4	Academy, Visionary	Blue Buff, Hextech Gunblade, Jeweled Gauntlet
+Illaoi	4	Rebel, Sentinel	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Irelia	1	Rebel, Sentinel	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Jayce	5	Academy, Form Swapper	Infinity Edge, Last Whisper, Spear of Shojin
+Jinx	5	Rebel, Ambusher	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Kogmaw	3	Automata, Sniper	Archangel's Staff, Guinsoo's Rageblade, Hextech Gunblade
+Leblanc	5	Black Rose, Sorcerer	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Leona	2	Academy, Sentinel	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Loris	3	Enforcer, Sentinel	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Lux	1	Academy, Sorcerer	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Maddie	1	Enforcer, Sniper	Infinity Edge, Last Whisper, Spear of Shojin
+Malzahar	5	Automata, Visionary	Morellonomicon, Nashor's Tooth, Spear of Shojin
+Mordekaiser	5	Conqueror, Dominator	Bloodthirster, Jeweled Gauntlet, Titan's Resolve
+Morgana	1	Black Rose, Visionary	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Nami	3	Emissary, Sorcerer	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Nocturne	2	Automata, Quickstriker	Bloodthirster, Edge of Night, Giant Slayer
+Nunu	3	Experiment, Bruiser, Visionary	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Powder	1	Family, Scrap, Ambusher	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Rell	2	Conqueror, Sentinel, Visionary	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Renata	2	Chem-Baron, Visionary	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Renni	3	Chem-Baron, Bruiser	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Rumble	5	Junker King, Scrap, Sentinel	Bloodthirster, Crownguard, Jeweled Gauntlet
+Scar	3	Firelight, Watcher	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Sett	2	Rebel, Bruiser	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Sevika	5	Chem-Baron, High Roller, Pit Fighter	Bloodthirster, Sterak's Gage, Titan's Resolve
+Silco	4	Chem-Baron, Dominator	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Singed	1	Chem-Baron, Sentinel	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Smeech	3	Chem-Baron, Ambusher	Bloodthirster, Sterak's Gage, Titan's Resolve
+Steb	1	Enforcer, Bruiser	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Swain	3	Conqueror, Form Swapper, Sorcerer	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Tristana	2	Emissary, Artillerist	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Trundle	1	Scrap, Bruiser	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Twisted Fate	3	Enforcer, Quickstriker	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Twitch	4	Experiment, Sniper	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Urgot	2	Experiment, Artillerist, Pit Fighter	Bloodthirster, Sterak's Gage, Titan's Resolve
+Vander	2	Family, Watcher	Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Vex	1	Rebel, Visionary	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Vi	4	Enforcer, Pit Fighter	Bloodthirster, Sterak's Gage, Titan's Resolve
+Violet	1	Family, Pit Fighter	Bloodthirster, Sterak's Gage, Titan's Resolve
+Vladimir	2	Black Rose, Sorcerer, Watcher	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Zeri	2	Firelight, Sniper	Guinsoo's Rageblade, Infinity Edge, Last Whisper
+Ziggs	2	Scrap, Dominator	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Zoe	4	Rebel, Sorcerer	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Zyra	1	Experiment, Sorcerer	Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin

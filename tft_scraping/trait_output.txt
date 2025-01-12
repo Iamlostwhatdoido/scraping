@@ -1,0 +1,26 @@
+Rebel	3 | 5 | 7 | 10
+Quickstriker	2 | 3 | 4
+Conqueror	2 | 4 | 6 | 9
+Emissary	1 | 4
+Automata	2 | 4 | 6
+Watcher	2 | 4 | 6
+Dominator	2 | 4 | 6
+Enforcer	2 | 4 | 6 | 8 | 10
+Sniper	2 | 4 | 6
+Ambusher	2 | 3 | 4 | 5
+Black Rose	3 | 4 | 5 | 7
+Scrap	2 | 4 | 6 | 9
+Artillerist	2 | 4 | 6
+Experiment	3 | 5 | 7
+Pit Fighter	2 | 4 | 6 | 8
+Firelight	2 | 3 | 4
+Bruiser	2 | 4 | 6
+Form Swapper	2 | 4
+Academy	3 | 4 | 5 | 6
+Visionary	2 | 4 | 6 | 8
+Sentinel	2 | 4 | 6
+Sorcerer	2 | 4 | 6 | 8
+Family	3 | 4 | 5
+Chem-Baron	3 | 4 | 5 | 6 | 7
+Junker King	1
+High Roller	1
