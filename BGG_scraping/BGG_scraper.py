@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 import urllib3
 
 
-with open("scraping\BGG_scraping\game_IDs.txt","r") as file:
+with open("BGG_scraping/game_IDs.txt","r") as file:
     ID_list = file.read().splitlines()
 
-with open("scraping\BGG_scraping\scrapped_data.txt", "w") as outfile:
+with open("BGG_scraping/scrapped_data.txt", "w") as outfile:
 	
 	http = urllib3.PoolManager()
 
